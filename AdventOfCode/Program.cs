@@ -2,4 +2,5 @@
 using AdventOfCode;
 
 Console.WriteLine("Hello, World!");
-Exo1.Solution();
+Exo2.Solution();
+//test.test1();
