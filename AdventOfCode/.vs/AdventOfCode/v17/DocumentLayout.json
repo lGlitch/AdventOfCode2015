@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|c:\\users\\erewa\\documents\\epsi\\adventofcode2015\\adventofcode2015\\adventofcode\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|c:\\users\\erewa\\documents\\epsi\\adventofcode2015\\adventofcode2015\\adventofcode\\exo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|solutionrelative:exo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|c:\\users\\erewa\\documents\\epsi\\adventofcode2015\\adventofcode2015\\adventofcode\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BDAFA5-8515-4534-A179-09357D138D82}|AdventOfCode.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Exo2.cs",
               "ToolTip": "C:\\Users\\erewa\\Documents\\epsi\\AdventOfCode2015\\AdventOfCode2015\\AdventOfCode\\Exo2.cs",
               "RelativeToolTip": "Exo2.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAADwvw0AAAAOAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwHcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T14:09:57.023Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "test.cs",
               "DocumentMoniker": "C:\\Users\\erewa\\Documents\\epsi\\AdventOfCode2015\\AdventOfCode2015\\AdventOfCode\\test.cs",
               "RelativeDocumentMoniker": "test.cs",
@@ -56,11 +56,12 @@
               "RelativeToolTip": "test.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:35:42.902Z"
+              "WhenOpened": "2025-11-13T20:35:42.902Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Exo1.cs",
               "DocumentMoniker": "C:\\Users\\erewa\\Documents\\epsi\\AdventOfCode2015\\AdventOfCode2015\\AdventOfCode\\Exo1.cs",
               "RelativeDocumentMoniker": "Exo1.cs",
@@ -68,7 +69,8 @@
               "RelativeToolTip": "Exo1.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAgwCAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T14:12:12.666Z"
+              "WhenOpened": "2025-11-12T14:12:12.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,9 +80,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\erewa\\Documents\\epsi\\AdventOfCode2015\\AdventOfCode2015\\AdventOfCode\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:52:07.343Z"
+              "WhenOpened": "2025-11-12T13:52:07.343Z",
+              "EditorCaption": ""
             }
           ]
         }
